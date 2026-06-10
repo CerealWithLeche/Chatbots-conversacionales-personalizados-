@@ -1,0 +1,2 @@
+# Desarrollo de Chatbots Personalizados con la API de OpenAI
+Este repositorio contiene un ecosistema modular para el desarrollo e integración de chatbots adaptativos y personalizados en sitios web. El sistema está diseñado para consumir los modelos de lenguaje de OpenAI mediante una arquitectura eficiente, asegurando respuestas dinámicas y un comportamiento alineado a los requerimientos específicos de cada entorno (institucional, comercial o académico).
