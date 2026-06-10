@@ -32,5 +32,8 @@ El Core del sistema es 100% parametrizable. Al modificar el identificador del as
 2. **Áreas Académicas y de Investigación:** Soporte de tutorías, resolución de problemas con notación matemática y consulta de bases de conocimiento técnicas.
 3. **Plataformas Institucionales y Comerciales:** Captación de leads, atención al cliente automatizada y navegación guiada basada en reglas de negocio.
 
+<img width="1366" height="768" alt="Screenshot_10-Jun_15-52-57_32076" src="https://github.com/user-attachments/assets/c3fc229c-3a83-4880-a1ba-1df3a792b52e" />
+
+
 ---
 *Nota: Este repositorio se mantiene como una exhibición de portafolio para demostrar la implementación de buenas prácticas en el desarrollo de software seguro y soluciones de IA integradas. El código fuente de la lógica interna permanece privado.*
