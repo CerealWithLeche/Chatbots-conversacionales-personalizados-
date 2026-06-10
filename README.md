@@ -34,6 +34,9 @@ El Core del sistema es 100% parametrizable. Al modificar el identificador del as
 
 <img width="1366" height="768" alt="Screenshot_10-Jun_15-52-57_32076" src="https://github.com/user-attachments/assets/c3fc229c-3a83-4880-a1ba-1df3a792b52e" />
 
+<img width="1366" height="768" alt="Screenshot_10-Jun_15-56-15_32483" src="https://github.com/user-attachments/assets/69105ed0-9b9a-4542-9635-08844eb356c4" />
+
+
 
 ---
 *Nota: Este repositorio se mantiene como una exhibición de portafolio para demostrar la implementación de buenas prácticas en el desarrollo de software seguro y soluciones de IA integradas. El código fuente de la lógica interna permanece privado.*
