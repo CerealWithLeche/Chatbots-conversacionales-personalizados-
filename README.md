@@ -1,11 +1,6 @@
 # Desarrollo de Chatbots Personalizados con la API de OpenAI
 Este repositorio contiene un ecosistema modular para el desarrollo e integración de chatbots adaptativos y personalizados en sitios web. El sistema está diseñado para consumir los modelos de lenguaje de OpenAI mediante una arquitectura eficiente, asegurando respuestas dinámicas y un comportamiento alineado a los requerimientos específicos de cada entorno (institucional, comercial o académico).
-
-# Custom Web Chatbot Engine (OpenAI Assistants API v2)
-
-Un motor web modular, seguro y completamente agnóstico al dominio, diseñado como plantilla base (boilerplate) para el desarrollo e integración rápida de asistentes virtuales personalizados en cualquier sitio web. 
-
-Este ecosistema implementa una arquitectura desacoplada que permite transformar la temática del chatbot instantáneamente (entornos clínicos, académicos, institucionales o comerciales) con solo cambiar el identificador del asistente en el backend, reutilizando el 100% de la infraestructura de interfaz y seguridad.
+Este ecosistema implementa una arquitectura desacoplada que permite transformar la temática del chatbot instantáneamente con solo cambiar el identificador del asistente en el backend, reutilizando el 100% de la infraestructura de interfaz y seguridad.
 
 ---
 
